@@ -9,3 +9,10 @@ Introduction to python : tip exercise
 
 Work with datasheet and API : bank data 
 
+**2. US01_3**
+
+Game of thrones part 1 : make our first graph
+
+**2. US01_4**
+
+Game of thrones part 2 : amelioration
