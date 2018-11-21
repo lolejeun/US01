@@ -19,10 +19,10 @@ Game of thrones part 2 : amelioration
 
 **5. US01_5**
 
-Game of thrones part 2 : make a real graph (make a graph from GOT book NLP)
+Game of thrones part 3 & 4 : make a real graph (make a graph from GOT book NLP)
 
 **Plus**
 
-get wiki awoif list of characters
-
-make a graph from GOT book NLP
+    1 Prepare Characters Dict from AWOIF
+    2 Book to Graph – Game of Thrones Experiment 
+    3 PCA Analysis
