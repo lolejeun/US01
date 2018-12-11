@@ -1,28 +1,24 @@
 # US01
 ## Introduction to data meaning 
 
-**1. US01_1**
+**GOT**
 
-Introduction to python : tip exercise
+Extraction of GOT's characters (beautiful soup, python lib), comparaison with a wiki (API), relation graph (gephi)
 
-**2. US01_2**
+**Python**
 
-Work with datasheet and API : bank data 
+Introduction to python and notebook. Tip exercice and data bank (open, read and write in a csv, clean data)
 
-**3. US01_3**
+**R**
 
-Game of thrones part 1 : make our first graph
+Short introduction to R
 
-**4. US01_4**
+**RealEstate**
 
-Game of thrones part 2 : amelioration
+Real estate in Baoshan district. Introduction to Orange. Build a classification tree
 
-**5. US01_5**
 
-Game of thrones part 3 & 4 : make a real graph (make a graph from GOT book NLP)
 
 **Plus**
 
-    1 Prepare Characters Dict from AWOIF
-    2 Book to Graph – Game of Thrones Experiment 
-    3 PCA Analysis
+1. courses : US01
